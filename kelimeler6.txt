@@ -1,0 +1,16 @@
+bees
+turkey
+animals
+buffalo
+duck
+birds
+dog
+goat
+chicken
+calf
+deer
+goose
+sheep
+bison
+geese
+lamb
